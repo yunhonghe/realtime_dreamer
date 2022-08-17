@@ -8,6 +8,7 @@ This Realtime Dreamer project is to use real Ecommerce data to perform NLP for V
 
 Suwasit Wittayaijug used customer reviews to train Phobert pre-trained BERT model and then classify review types such as delivery, product, quality, and service. Performed model evaluation and produced visualizations.
 
+Suwasit --- testing READme
 
 2.	Sentiment analysis for customer reviews
 
